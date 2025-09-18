@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    display: inline;
+}
+.parent{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 0px 0px 0px 25px;
+    height: 300px;
+}
+.div1{
+    display: flex;
+}
+img{
+    height: 90px;
+    width: 90px;
+}
+.div2{
+    display: flex;
+    
+}
